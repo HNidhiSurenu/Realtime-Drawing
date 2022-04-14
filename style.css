@@ -1,0 +1,22 @@
+.heading{
+    font-size:20px;
+    width:100%;
+    margin: 0;
+}
+.Note{
+    background-color: greenyellow;
+    color: black;
+    font-size: 18px
+}
+.footer{
+    position: fixed;
+    background-color: blueviolet;
+    color: white;
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+}
+canvas{
+    border: 3px solid black ;
+    border-radius: 20px;
+}
